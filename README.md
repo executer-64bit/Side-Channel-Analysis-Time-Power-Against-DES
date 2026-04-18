@@ -1,3 +1,3 @@
 Everything is explained in https://executer-64bit.github.io/timePowerSCA.html
 
-[SCA time Average](videos/scaTimeAvg.mp4)
+[SCA time Average](video/scaTimeAvg.mp4)
